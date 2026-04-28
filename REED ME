@@ -1,1 +1,17 @@
+# Python-Based Keylogger for Endpoint Monitoring
 
+## Description
+A specialized Python tool developed to demonstrate endpoint security monitoring and data logging. This project captures and records keystrokes in real-time, designed for educational purposes to understand how monitoring tools operate within a Linux environment.
+
+## Key Features
+* **Real-time Logging:** Captures keystrokes as they happen.
+* **Educational Focus:** Built to study endpoint security and process automation.
+* **Platform:** Developed and tested on Kali Linux.
+
+## Technologies Used
+* **Language:** Python 3
+* **Libraries:** pynput
+* **Environment:** Kali Linux / VMware
+
+---
+*Disclaimer: This project is for educational and ethical security research purposes only.*
